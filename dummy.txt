@@ -1,1 +1,3 @@
 Git ant Github Tutorial for beginers.
+
+This is mainly used for projects
